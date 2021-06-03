@@ -1,0 +1,2246 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rare en tout comedie meslée de musique et de balets represantée devant sa majesté sur le Theatre Royal de Whitehall.</title>
+            <author>La Roche-Guilhen, Mlle de (Anne), 1644-1707.</author>
+         </titleStmt>
+         <extent>Approx. 77 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49594</idno><idno type="EEBO-CITATION">12875813</idno>
+  <idno type="VID">94836</idno>
+  <idno type="EEBO-PROQUEST">2240859709</idno>
+  
+            <idno type="STC">Wing L448</idno>
+            <idno type="STC">ESTC R18821</idno>
+            <idno type="OCLC">12875813</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A49594)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94836)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 109:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rare en tout comedie meslée de musique et de balets represantée devant sa majesté sur le Theatre Royal de Whitehall.</title>
+                  <author>La Roche-Guilhen, Mlle de (Anne), 1644-1707.</author>
+               </titleStmt>
+               <extent>[8], 43 p.   </extent>
+               <publicationStmt>
+                  <publisher>Chez Jacques Magnes &amp; Richard Bentley ...,</publisher>
+                  <pubPlace>A Londres :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: La Roche-Guilhen.</note>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="fre">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94836:1"/>
+            <p>RARE EN TOUT-COMEDIE Meslée de MUSIQUE Et de BALETS Represantée devant Sa Majesté Sur le THEATRE ROYAL De WHITEHALL.</p>
+            <p>A LONDRES. Chez JACQUES MAGNES, &amp; RICHARD BENTLEY, à la Poste de Russel-street, au Covent Jardin. 1677.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:94836:2"/>
+            <pb facs="tcp:94836:2"/>
+            <head>A Madame, Madame la DUCHESSE DE GRAFTON.</head>
+            <opener>
+               <salute>Madame,</salute>
+            </opener>
+            <p>L'Inclination respectueuse que j'ay pour vostre Grandeur, m'a inspire le dessein de mettre son nom a la teste de cet ouvrage, comm'il est destiné a divertir sa Ma<g ref="char:EOLhyphen"/>jesté &amp; toute son Illustre Cour, &amp; que vous vous faites distin<g ref="char:EOLhyphen"/>guer d'une maniere surprenante dans un age on l'on est ordi<g ref="char:EOLhyphen"/>nairement inconnu au monde; Je ne doute point qu'il ne soit favorablement receu si vous l'honorez de vostre protection. Il est si rare, Madame, de trouver toutes les belles qualitez que vous possedez dans un si petit nombre d'années, qu'il faut avoir une sincerite bien establie pour en persuader les veritez a ceux qui n'ont point l'avantage de vous approcher. La mienne ne doit pas estre suspecte puisque ce ne sont ny des mouvemens interessez, ny des dispositions flateuses qui me font parler.</p>
+            <q>
+               <l>Je n'ay connu l'éclat de vos jeunes beautez,</l>
+               <l>Que d'une assez grande distance;</l>
+               <l>Mais vos yeux ont une puissance,</l>
+               <l>Qui de pres &amp; de loin surprend les libertez.</l>
+            </q>
+            <p>Mais Madame, quoy que je n'aye veu vostre aymable per<g ref="char:EOLhyphen"/>sonne que dans une foule qui ne me laissoit rien de particulier, elle n'a pas fait moins d'impression sur mon coeur: Il y a milles raisons qui vous rendent recommandable. Le choix équitable qu'un des plus Grands Roys de l'Europe a fait en
+<pb facs="tcp:94836:3"/>vostre faveur pour un Prince qui a l honneur d'estre de son sang, les dignitez que le merite de Monseigneur vostre Pere remplit si avantageusement l'education admirable que vous recevez dans vostre famille, &amp; une infinite d'autres: Mais vous avez quelque chose qui touche plus sensiblement &amp; qui ne vient que de vous seule.</p>
+            <q>
+               <l>Ouy l'on découvre en vous tout ce qui peut charmer,</l>
+               <l>La beauté, la douceur, l'esprit, la connoissance,</l>
+               <l>Et vous n'avez rien de l'enfance,</l>
+               <l>Que cét air innocent s'y propre a faire aymer.</l>
+               <l>On dépeint l'amour de vostre age,</l>
+               <l>Il touche les coeurs comme vous;</l>
+               <l>Mais en voyant vostre visage,</l>
+               <l>S'il ne l'adoroit pas il en seroit jaloux.</l>
+            </q>
+            <p>Je ne veux point tomber s'il m'est possible dans le deffaut qui rend la plus grande partie des epistres desagreables: Je crains que vostre grandeur ne soit deja fatiguee de la lon<g ref="char:EOLhyphen"/>gueur de la mienne, &amp; le malheur d'ennuyer est presque tous<g ref="char:EOLhyphen"/>jours inseparable de ces sortes de choses: Mais, Madame, c'est le foible des eoeurs tendres quand la matiere leur plaist ils fi<g ref="char:EOLhyphen"/>nissent mal-aysement, &amp; s'y j'en croyois le mien, Je vous importunerois encore faites moy la grace d'estre persuadeé que fi les sentimens tenoient lieu de quelque chose ceux que vous m'avez inspirez repareroient tous les deffauts du present que je prends la liberté de vous faire, puis que je suis avec tout le respect &amp; la passion possible,</p>
+            <closer>
+               <salute>Madame,</salute>
+               <signed>
+                  <hi>de vostre Grandeur,</hi> La tres-humble &amp; tres-obeyssante Servante, La Roche-Guilhen.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="play">
+            <div type="prologue">
+               <pb facs="tcp:94836:3"/>
+               <head>PROLOGUE.</head>
+               <stage>La Scene represente un Paysage on l'on decouvre le Palais de Whitehall. La Nymphe de la Thamise appuyee sur son Ʋrne, est abordee par l'Europe qui la vient conjurer de disposer le Roy a estre l'Arbitre de la Paix entre tous ses Princes.</stage>
+               <p>ACTEƲRS. L'EUROPE. LA THAMISE.</p>
+               <sp>
+                  <speaker>L'EUROPE.</speaker>
+                  <l>C'est sur ton rivage tranquille,</l>
+                  <l>Que contre Belonne en fureur,</l>
+                  <l>Je viens à ton Heros demander un azille,</l>
+                  <l>Et pour mon vaste Empire implorer sa faveur.</l>
+                  <l>De tant de Roys que j'ay veu naistre</l>
+                  <l>Luy seul Reigne aujourd'huy sur des peuples heureux,</l>
+                  <l>Tout l'Univers sçait qu'il est genereux,</l>
+                  <l>Et la Gloire a pris soin de le faire connoistre.</l>
+                  <l>Pendant que de tes soeurs les flots sont agitez,</l>
+                  <l>Que le Rhin effrayé se cache sous son onde,</l>
+                  <l>Tu vois coûler les tiens dans une paix profonde,</l>
+                  <l>Et tes bords ne sont pleins que de prosperitez:</l>
+                  <l>Dans cét heureux estat de l'Europe troublée</l>
+                  <l>Porte les pleurs a ton Illustre Roy;</l>
+                  <l>Nymphe peinds luy les maux dont je suis accablée</l>
+                  <l>Et fais que son Grand coeur s'interesse pour moy.</l>
+               </sp>
+               <sp>
+                  <speaker>LA THAMISE.</speaker>
+                  <l>Je l'ay veu soûpirer au recit pitoyable</l>
+                  <l>Du bruit de tes malheurs qui s'épand jusqu'à Luy;</l>
+                  <pb facs="tcp:94836:4"/>
+                  <l>Sa generosité plaint l'estat déplorable,</l>
+                  <l>Où l'orage de Mars te reduit aujourd'huy:</l>
+                  <l>Reyne, si sa prudence égale son courage,</l>
+                  <l>Conserve tu quelque terreur?</l>
+                  <l>De tes champs desolez il va bannir l'horreur,</l>
+                  <l>Et son soin favorable écartera l'orage.</l>
+                  <l>Par ses sages Conseils nous verront terminer</l>
+                  <l>Cette guerre longue &amp; sanglante,</l>
+                  <l>Nous te verrons encor paisible &amp; florissante,</l>
+                  <l>De nos Mirthes te couronner.</l>
+                  <l>Mais par la seule renommée,</l>
+                  <l>Tu connois ce Heros dont j'adore les Loix,</l>
+                  <l>Et quand tu le verras dans ton ame charmée,</l>
+                  <l>Tu le prefereras au reste de tes Roys:</l>
+                  <l>Quand il peut soûlager les maux d'un miserable,</l>
+                  <l>Il goûte des felicitez,</l>
+                  <l>Et l'on ne peut de ses bontez,</l>
+                  <l>Tarrir la source inépuisable,</l>
+                  <l>On ne vient point icy consterné de refus,</l>
+                  <l>Grossir mes eaux avec des larmes,</l>
+                  <l>Sous son authorité nous vivons sans alarmes,</l>
+                  <l>Et ne nous employons qu'à loüer ses vertus.</l>
+                  <l>De ces précieux avantages</l>
+                  <l>Quelle Nymphe, quel fleuve, oseroit se vanter?</l>
+                  <l>L'Ocean de leurs flots mêprise les hommages;</l>
+                  <l>Depuis que tant de sang est venu l'infecter;</l>
+                  <l>Je n'ay point le chagrin d'en estre dédeignée,</l>
+                  <l>Seule dans son Palais je fais passer les miens:</l>
+                  <l>La puissante Thetis me comblé de ses biens,</l>
+                  <l>Lors que contre mes soeurs elle s'est indignée;</l>
+                  <l>Mais ne t'y trompe pas, si j'ay tant de douceur,</l>
+                  <l>Si je vois sur mes bords dans un riche mélange,</l>
+                  <l>Les Thresors de l'Inde &amp; du Gange,</l>
+                  <l>Aux travaux de mon Roy j'en dois tout le bon-heur</l>
+               </sp>
+               <pb facs="tcp:94836:4"/>
+               <sp>
+                  <speaker>L'EUROPE.</speaker>
+                  <l>Tu flate mes inquiétudes</l>
+                  <l>Par un entretien si charmant;</l>
+                  <l>Dans tes aymables solitudes,</l>
+                  <l>Je pretens desormais vivre tranquillement.</l>
+                  <l>Mais si je me consacre à cette Isle si chere</l>
+                  <l>Ou je vois déja tant d'apas,</l>
+                  <l>Nymphe, il me reste encor des sentimens de mere,</l>
+                  <l>Aux quels je ne renonce pas.</l>
+                  <l>Il faut que ton Monarque Arbitre de nos Princes,</l>
+                  <l>Redonne enfin le calme à nos peuples troublez,</l>
+                  <l>Que n'estans plus captiss dans leur triste Provinces,</l>
+                  <l>Il triomphent du sort qui les tient accablez:</l>
+                  <l>A mon repos la Paix est necessaire,</l>
+                  <l>Et si de ce Grand Roy je l'obtiens aujourd'huy,</l>
+                  <l>Mettant toute ma Gloire à la tenir de Luy,</l>
+                  <l>Pour la sienne il n'est rien que je ne veüille faire.</l>
+               </sp>
+               <sp>
+                  <speaker>LA THAMISE.</speaker>
+                  <l>Je vois qu'il porte icy ses pas,</l>
+                  <l>La fortune te favorise,</l>
+                  <l>Déja de ton aspect tu me parois surprise,</l>
+                  <l>Quand tu le verras mieux que ne sera-ce pas;</l>
+                  <l>Puisque le destin nous l'envoye,</l>
+                  <l>Profitons d'un temps précieux</l>
+                  <l>Et pour le divertir par d'agreables jeux,</l>
+                  <l>Faisons éclater nostre joye.</l>
+               </sp>
+               <sp>
+                  <speaker>L'EUROPE.</speaker>
+                  <l>Vous qui suivez mes loix paroissez Nations,</l>
+                  <l>Venez signaler vostre adresse</l>
+                  <l>Et meslez à vos actions,</l>
+                  <l>Des cris &amp; des chants d'allegresse:</l>
+                  <l>Que le bruit de son Nom remplisse l'Univers,</l>
+                  <l>Unissez vous sur la Terre &amp; sur l'Onde,</l>
+                  <l>Chantez en mille endroits divers,</l>
+                  <l>Que sa Vertu doit charmer tout le monde.</l>
+               </sp>
+               <pb facs="tcp:94836:5"/>
+               <stage>Une foûle de Nations sortent des deux costez du Theatre, &amp; ferment le Prologue pas des chants &amp; des dances.</stage>
+               <sp>
+                  <speaker>Le Choeur.</speaker>
+                  <l>
+                     <hi>Que le bruit de son Nom remplisse l'Ʋnivers,</hi>
+                  </l>
+                  <l>
+                     <hi>Ʋnissons nous sur la Terre &amp; sur l'Onde,</hi>
+                  </l>
+                  <l>
+                     <hi>Chantons en mille endroits divers,</hi>
+                  </l>
+                  <l>
+                     <hi>Qne sa Vertu doit charmer tout le monde.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Une voix seule à la Thamise.</speaker>
+                  <l>
+                     <hi>Si l'Europe aujourd'huy paroit sur ton rivage,</hi>
+                  </l>
+                  <l>
+                     <hi>Si nous nous empressons d'accompagner ses pas;</hi>
+                  </l>
+                  <l>
+                     <hi>Nymphe ne t'en estonne pas,</hi>
+                  </l>
+                  <l>
+                     <hi>Ton Illustre Heros merite cet hommage.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Une autre voix.</speaker>
+                  <l>
+                     <hi>Jay quitte les bords de l'Ibere,</hi>
+                  </l>
+                  <l>
+                     <hi>Pour suivre l'Europe en ces lieux,</hi>
+                  </l>
+                  <l>
+                     <hi>De tes bontez tu sais ce qu'elle espere,</hi>
+                  </l>
+                  <l>
+                     <hi>Grand Roy favorise ses voeux.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Trois voix.</speaker>
+                  <l>
+                     <hi>Luy seul peut nous satisfaire,</hi>
+                  </l>
+                  <l>
+                     <hi>Peuples cherchons a luy plaire,</hi>
+                  </l>
+                  <l>
+                     <hi>Que le bruit de son Nom remplisse l'Ʋnivers,</hi>
+                  </l>
+                  <l>
+                     <hi>Ʋnissons nous sur la Terre &amp; sur l'Onde,</hi>
+                  </l>
+                  <l>
+                     <hi>Chantons en mille endroits divers,</hi>
+                  </l>
+                  <l>
+                     <hi>Que sa Vertu doit charmer tout le monde.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Le Choeur.</speaker>
+                  <l>
+                     <hi>Que le bruit de son Nom remplisse l'Ʋnivers,</hi>
+                  </l>
+                  <l>
+                     <hi>Ʋnissons nous sur la Terre &amp; sur l'Onde,</hi>
+                  </l>
+                  <l>
+                     <hi>Chantons en mille endroits divers,</hi>
+                  </l>
+                  <l>
+                     <hi>Que sa Vertu doit charmer tout le monde.</hi>
+                  </l>
+               </sp>
+            </div>
+            <div n="1" type="act">
+               <pb n="1" facs="tcp:94836:5"/>
+               <head>RARE EN TOUT: COMEDIE.</head>
+               <list>
+                  <head>ACTEƲRS.</head>
+                  <item>
+                     <label>RARE EN TOUT,</label>
+                     <hi>Gascon.</hi>
+                  </item>
+                  <item>
+                     <label>LA TREILLE,</label>
+                     <hi>Valet de Rare en tout.</hi>
+                  </item>
+                  <item>
+                     <label>ISABELLE,</label>
+                     <hi>Chanteuse Angloise.</hi>
+                  </item>
+                  <item>
+                     <label>CLIMENE,</label>
+                     <hi>Chanteuse Françoise.</hi>
+                  </item>
+                  <item>
+                     <label>FINETTE,</label>
+                     <hi>Suivante d'Isabelle.</hi>
+                  </item>
+                  <item>
+                     <label>TIRSIS,</label>
+                     <hi>Chanteur François.</hi>
+                  </item>
+                  <item>
+                     <hi>La Scene est à</hi> LONDRES.</item>
+               </list>
+               <div n="1" type="scene">
+                  <head>Acte premier, Scene premiere.</head>
+                  <sp>
+                     <speaker>LA TREILLE, seul.</speaker>
+                     <lg>
+                        <l>QUoy que simple valet Madame la Thamise,</l>
+                        <l>Souffrez que sur vos bords mon ame moralise;</l>
+                        <l>Je n'y viens point chagrin, &amp; las de soûpirer,</l>
+                        <l>Aprendre à vos Amans à se desesperer?</l>
+                        <l>Un soin plus raisonnable occupe ma pensée,</l>
+                        <l>De l'Amour cependant ma poictrine est blesscée;</l>
+                        <l>Et comme assez d'Amans, en poussant des regrets,</l>
+                        <l>Vous ont souvent apris leurs amoureux secrets,</l>
+                        <l>Je sens qu'à c<gap reason="illegible" resp="#murp" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> instant pareil desir me presse,</l>
+                        <l>Vous voyez un objet tour remply de tendresse:</l>
+                        <l>Escoutez mon histoire &amp; la retenez bien,</l>
+                        <l>Je veux parle<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                           <gap reason="illegible" resp="#murp" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> o<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>dre, &amp; ne vous cacher rien.</l>
+                     </lg>
+                     <pb n="2" facs="tcp:94836:6"/>
+                     <lg>
+                        <l>Je ne me pique point d'une Illustre naissance,</l>
+                        <l>Mon Pere estoit portier d'un Hostel d'importance,</l>
+                        <l>D'un brevet de laquais, il me sit possesseur,</l>
+                        <l>Et j'exerçay ma charge avec assez d'honneur;</l>
+                        <l>Mais mon Maistre en huit ans pour toute recompense,</l>
+                        <l>De quelque vieux habits me donna l'intendance,</l>
+                        <l>J'avois déja du coeur &amp; rompant avec luy,</l>
+                        <l>J'entray dans le service où je suis aujourd'huy:</l>
+                        <l>Ce fut l'Hyver passé, sur la fin de Decembre,</l>
+                        <l>Que Monsieur Rare en tout, me fit valet de chambre,</l>
+                        <l>Rare en tout, ce grand nom, ne vous surprent-il pas,</l>
+                        <l>Vous le verrez bien tost, il marche sur mes pas;</l>
+                        <l>Nous avons rendez-vous sur vostre beau rivage;</l>
+                        <l>C'est un Gascon bien fait, adroit plein de courage,</l>
+                        <l>Noble, mais si facile à se laisser charmer,</l>
+                        <l>Qu une simple chanson le peut forcer d'aymer:</l>
+                        <l>Je vais vous en donner un assez bel exemple,</l>
+                        <l>En passant une nuit par le Marais du Temple,</l>
+                        <l>Une voix l'arresta jusques au point du jour,</l>
+                        <l>Et pour une inconnuë il conçeut de l'amour:</l>
+                        <l>J'enrageois de bon coeur, je suis un peu timide,</l>
+                        <l>Le froid estoit piquant &amp; la nuit fort humide,</l>
+                        <l>A ne vous point mentir j'estois êpouvanté,</l>
+                        <l>Car naturellement je orains l'obscruité,</l>
+                        <l>J'eus beau pour l'entrainer draper sur la mufique,</l>
+                        <l>Je perdis fort longtemps toute ma Rhetorique,</l>
+                        <l>Nous partimes enfin de ce lieu malheureux;</l>
+                        <l>Mais jamais Celadon ne fut plus amoureux:</l>
+                        <l>Il falut employer ma teste ingenieuse,</l>
+                        <l>A découvrir l'endroit où gisoit la chanteuse,</l>
+                        <l>Mon zele reüsfit, &amp; Dieu sçait quels discours,</l>
+                        <l>Signalerent d'abord ses naissantes amours;</l>
+                        <l>Il ne les perdit pas, In Nymphe estoit humaine,</l>
+                        <l>L'esperance prit soin de soûlager sa peine,</l>
+                        <l>Quelque bien plus reel, peut-estre s'en mesla,</l>
+                        <pb n="3" facs="tcp:94836:6"/>
+                        <l>Mais Monsieur le destin, n'en demeura pas là,</l>
+                        <l>Aux feux de ces Amans il declara la guerre,</l>
+                        <l>Climene un beau matin, partit pour l'Angleterre,</l>
+                        <l>Aux volontez d'un Pere il falut defferer,</l>
+                        <l>On eut beau s'attendrir, on eut beau soûpirer,</l>
+                        <l>Le depart fut si prompt qu'un billet de la belle,</l>
+                        <l>A mon Maistre trop tart en porta la nouvelle:</l>
+                        <l>Je crûs qu'il s'ailloit pendre où bien s'empoisonner,</l>
+                        <l>Et jamais un Amant ne sçeut moins raisonner;</l>
+                        <l>Il falut aussi tost faire nostre équipage,</l>
+                        <l>Son trêpas estoit seur s'il n'eust fait le voyage,</l>
+                        <l>Il fut assez heureux, mais arrivant icy,</l>
+                        <l>Son chagrin augmenta bien loin d'estre adoucy,</l>
+                        <l>Nous ne pûmes sçavoir quelle maison heureuse,</l>
+                        <l>possedoit dans son sein nostre belle chanteuse:</l>
+                        <l>Je cherchois nuit &amp; jour, mais ayant découvert,</l>
+                        <l>Que souvent un François avoit chez luy concert;</l>
+                        <l>J'y fus adroitement &amp; j'y trouvay Climene,</l>
+                        <l>Le concert se faisoit une fois la semaine,</l>
+                        <l>Que mon maistre eut de joye, combien d'embrassemens,</l>
+                        <l>M'exprimerent l'ardeur de ses empressemens.</l>
+                        <l>Quels transpors, quels plaisirs, lorsque je fus l'instruire,</l>
+                        <l>De l'endroit ou dans peu je voulois l'introduire.</l>
+                        <l>J'avois tout disposé pour ouvrir les chemins,</l>
+                        <l>Un valet enyvré secondoit mes desseins</l>
+                        <l>Du logis de Climene on nous donnoit l'entrée</l>
+                        <l>Et Monsieur Rare en tout se la vit assurée:</l>
+                        <l>Mais ses yeux ébloüis par un nouvel esclat,</l>
+                        <l>A sa sidelité livrerent un combat:</l>
+                        <l>Le pere de Climene avoit fait connoissance,</l>
+                        <l>Avec un vieil Anglois d'assez bonne naissance,</l>
+                        <l>Qui n'avoit qu'une fille &amp; l'aimoit cherement,</l>
+                        <l>Belle, jeune, &amp; chantant miraculeusement:</l>
+                        <l>Elle estoit au concert que mon maistre cut de peine,</l>
+                        <l>A jetter un regard sur la pauvre Climene;</l>
+                        <pb n="4" facs="tcp:94836:7"/>
+                        <l>Il sortit dans la presse à dessein d'éviter,</l>
+                        <l>De l'entretenir seule où de la visiter.</l>
+                        <l>J'a vois lû dans ses yeux toute son inconstancè,</l>
+                        <l>Je crûs que je devois l'en gronder d'importance:</l>
+                        <l>Mais il me conjura tout le reste du jour,</l>
+                        <l>De n'estre point contraire à ce nouvel amour;</l>
+                        <l>Et de vouloir encore employer mon adresse,</l>
+                        <l>Pour le faire parler à sa jeune maistresse.</l>
+                        <l>Je cherchay sa suivante &amp; j'en fus s'y charmé,</l>
+                        <l>Que mon maistre jamais n'avoit plustôt aymé;</l>
+                        <l>Mon coeur quin'est formé de bronze, n'y de roche,</l>
+                        <l>Soûpira pour ses yeux à la premiere approche,</l>
+                        <l>Je sentis naistre un feu qui se glissa par tout,</l>
+                        <l>Et qui de ma vigueur viendra bien tost about;</l>
+                        <l>Je la trouvay d'humeur assez accommodante,</l>
+                        <l>Et sur le fait d'amour passablement sçavante:</l>
+                        <l>C'est pour l'entretenir que je viens en ces lieux,</l>
+                        <l>Mais j'aperçois mon Maistre il paroit serieux.</l>
+                     </lg>
+                  </sp>
+               </div>
+               <div n="2" type="scene">
+                  <head>Scene deuxiesme</head>
+                  <head>RARE EN TOUT. LA TREILLE.</head>
+                  <sp>
+                     <speaker>RARE EN TOUT.</speaker>
+                     <l>Hé bien, n'as-tu point veu l'adorable Isabelle?</l>
+                     <l>Que j'en suis amoureux la Treille, qu'elle est belle.</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>Cela ne va pas mal, mais Climene Monsieur,</l>
+                     <l>Pert donc tout le pouvoir qu'elle eût sur vostre coeur.</l>
+                  </sp>
+                  <sp>
+                     <speaker>RARE EN TOUT.</speaker>
+                     <p>Ouy pour l'aymable Angloise, aujourd'huy je la quite.</p>
+                  </sp>
+                  <pb n="5" facs="tcp:94836:7"/>
+                  <sp>
+                     <speaker>LA TREILLE</speaker>
+                     <p>C'est fort bien fait à vous.</p>
+                  </sp>
+                  <sp>
+                     <speaker>RARE EN TOUT.</speaker>
+                     <l>Je suis plein d'un merite,</l>
+                     <l>Qui me fait triompher des plus charmans apas;</l>
+                     <l>Mon nom seul ma valeur.</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>Ha! je n'en dou<gap reason="illegible" resp="#murp" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> pas;</l>
+                     <l>Mais raisonnons un peu, que pretendez-vous faire,</l>
+                     <l>Vous croyez vous icy fort bien dans vostre assaire?</l>
+                     <l>Climene d'un tel coup est fille à s'irriter,</l>
+                     <l>Et je prevois des maux quil faudroit éviter:</l>
+                     <l>Craignez de son conroux.</l>
+                  </sp>
+                  <sp>
+                     <speaker>RARE EN TOUT.</speaker>
+                     <l>Moy craindre, tu m'offence,</l>
+                     <l>Je pretens à ces yeux vanter mon inconstance.</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <p>Et par là vous croyez vous immortaliser.</p>
+                  </sp>
+                  <sp>
+                     <speaker>RARE EN TOUT.</speaker>
+                     <l>T'a-t-elle commandé de me tiranniser,</l>
+                     <l>Je luy baise les mains le passé fut pour elle,</l>
+                     <l>Mais l'avenir sera pour l'aimable Isabelle.</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>Et dans quelque concert Isabelle à son tour,</l>
+                     <l>Pouroit bien essuyet un semblable retour:</l>
+                     <l>Voila jeunes beautez le sort qui vous menace,</l>
+                     <l>Quand vous croyez reigner vous estes en disgrace;</l>
+                     <l>L'amour vous promet tout pour ne vous rien tenir,</l>
+                     <l>Et chez luy le present vaut mieux que l'avenir.</l>
+                  </sp>
+                  <pb n="6" facs="tcp:94836:8"/>
+                  <sp>
+                     <speaker>RARE EN TOUT.</speaker>
+                     <l>Tous tes Raisonnemens ne font pas mon affaire,</l>
+                     <l>Isabelle me plaist &amp; je pretens luy plaire,</l>
+                     <l>Que Climene gemisse &amp; répande des pleurs,</l>
+                     <l>Le temps pourra donner remede à ses douleurs.</l>
+                     <l>Nous sommes à deux pas du logis d'Isabelle,</l>
+                     <l>Quand elle sortira je veux m'aprocher d'elle,</l>
+                     <l>Que dis-tu de mon air, il est assez vainqueur,</l>
+                     <l>Et je n'ignore pas comme l'on prend un coeur,</l>
+                     <l>Tu ne me reponds rien?</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <p>Non.</p>
+                  </sp>
+                  <sp>
+                     <speaker>RARE EN TOUT.</speaker>
+                     <p>Pourquoy?</p>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>Que vous dire,</l>
+                     <l>Puis que vous captivez tout objet qui respire;</l>
+                     <l>Profitez d'un talent qui vous doit estre cher</l>
+                     <l>Isabelle paroit courez donc l'aprocher</l>
+                     <l>Avec vostre bel air vous allez faire rage,</l>
+                     <l>L'occasion vous rit, elle est seule courage:</l>
+                     <l>Mais Finette la suit que son oeil est fripon.</l>
+                  </sp>
+               </div>
+               <div n="3" type="scene">
+                  <head>Scene troisiesme. </head>
+                  <head>RARE EN TOUT, ISABELLE, FI<g ref="char:EOLhyphen"/>NETTE, LA TREILLE.</head>
+                  <sp>
+                     <speaker>RARE EN TOUT à ISABELLE.</speaker>
+                     <l>Madame, vous voyez un illustre Gascon,</l>
+                     <l>Percé de milles coups &amp; si couvert de gloire,</l>
+                     <pb n="7" facs="tcp:94836:8"/>
+                     <l>Qu'un jour ces actions honoreront l'histoire;</l>
+                     <l>Mais tout cela pour luy n'aura rien de si doux,</l>
+                     <l>Que l'avantage heureux de soupirer pour vous,</l>
+                     <l>Ne luy refusez pas l'âveu qu'il vous demande,</l>
+                     <l>Je sçay bien qu'en effet la grace sera grande.</l>
+                  </sp>
+                  <stage>Isabelle regarde dédaigneusement Rare en tout, &amp; s'esloigne de luy sans parler.</stage>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>De cét accueil Monsieur vous estes interdit,</l>
+                     <l>Avez vous bien compris ce qu'elle vous a dit?</l>
+                     <l>N'estes vous point charmé d'une telle éloquence;</l>
+                     <l>C'est assez galamment payer vostre inconstance</l>
+                  </sp>
+                  <sp>
+                     <speaker>RARE EN TOUT.</speaker>
+                     <l>Tu t'estonne de peu voudrois tu que d'abord,</l>
+                     <l>De ce que je demande elle tomba d'acord;</l>
+                     <l>Je ne m'atendois point à d'autre repartie,</l>
+                     <l>Une fille à son âge à de la modestie,</l>
+                     <l>Et mon air martial imprime du respect.</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>En matiere d'amour pareil cas m'est suspect,</l>
+                     <l>Ces yeux sont dédaigneux je la crois méprisante.</l>
+                  </sp>
+                  <sp>
+                     <speaker>RARE EN TOUT.</speaker>
+                     <l>Pour nous en éclaircir consulte sa suivante,</l>
+                     <l>Tache de découvrir d'où vient cette froideur,</l>
+                     <l>Si c'est haine, mépris, innocence ou pudeur,</l>
+                     <l>Enfin sers mon amour &amp; vante mon merite.</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE en riant.</speaker>
+                     <lg>
+                        <l>Parlez elle revient, non elle vous évite.</l>
+                        <stage>Isabelle revient avec un homme qui luy donne la main, elle chante.</stage>
+                        <pb n="8" facs="tcp:94836:9"/>
+                        <l>Cessez coeurs languissans de pretendre à me plaire,</l>
+                        <l>J'ayme l'heureuse liberté,</l>
+                        <l>Et si l'amour est un mal necessaire,</l>
+                        <l>Je ne me soûmets point à sa necessité.</l>
+                     </lg>
+                     <stage>Tirsis chante.</stage>
+                     <lg>
+                        <l>En vain pour paroistre insensible,</l>
+                        <l>Vous voulez resister au pouvoir de l'amour;</l>
+                        <l>Mais croyez moy luy seul est invincible,</l>
+                        <l>Et vous pourez aymer un jour.</l>
+                     </lg>
+                  </sp>
+                  <stage>Apres avoir chanté, Isabelle &amp; Tirsis r'entrent chez elle.</stage>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>Ce chantre assurément menace vostre amour,</l>
+                     <l>C'est quelque heureux rival, il a l'air de la Cour.</l>
+                  </sp>
+                  <sp>
+                     <speaker>RARE EN TOUT.</speaker>
+                     <p>Et moy celuy de Mars, Cadebiou je m'en mocque.</p>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE entre ces dents.</speaker>
+                     <p>A ne vous point mentir sa presence me choque.</p>
+                  </sp>
+                  <sp>
+                     <speaker>RARE EN TOUT.</speaker>
+                     <p>Je te laisse, pour moy n'épargne point tes soins.</p>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <p>Allez mon zéle icy ne veut point de témoins.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Seul.</speaker>
+                     <l>De son nouvel amour fort peu je m'enbarrasse,</l>
+                     <l>Mais le mien veut enfin que je le satisfasse;</l>
+                     <l>Bon Finette revient morbleu qu'elle a d'apas.</l>
+                  </sp>
+               </div>
+               <div n="4" type="scene">
+                  <pb n="9" facs="tcp:94836:9"/>
+                  <head>Scene quatriesme.</head>
+                  <head>LA TREILLE, FINETTE.</head>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <p>Ma chere un mot où deux.</p>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <l>Ha! ne m'areste pas;</l>
+                     <l>Il faut à quelques soins m'ocuper sans remise,</l>
+                     <l>On regalle Madame au bord de la Thamise:</l>
+                     <l>D'instruments concertez avec de belles voix,</l>
+                     <l>Ensuite nous verrons au son de six hautbois,</l>
+                     <l>Dancer quelques pescheurs sur un air agréable,</l>
+                     <l>Cela n'a-t-il pas l'air d'une feste admirable;</l>
+                     <l>Laisse moy donc aller ne deviens point fâcheux,</l>
+                     <l>Il faut nous ajuster &amp; friser nos cheveux.</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>Quand je devrois risquer à te mettre en colere,</l>
+                     <l>Tu ne passeras point.</l>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <p>Hé bien que veux tu faire.</p>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>Te conter mes raisons, te parler de mes feux</l>
+                     <l>Te dire tout le mal que m'ont fait tes beaux yeux.</l>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <p>Tu parle comme un livre, &amp; ton discours m'enchante.</p>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>Sans vanité ma flâme est assez éloquente:</l>
+                     <l>Mais il ne suffit pas de se bien exprimer.</l>
+                  </sp>
+                  <pb facs="tcp:94836:10"/>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <p>Et que faudroit-il donc.</p>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <p>T'obliger de m'aymer.</p>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <p>Mon coeur déja pour toy n'est que trop favorable;</p>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>Tu me fais trop d'honneur où je me donne au diable:</l>
+                     <l>Si l'on mouroit de joye je serois déja mort,</l>
+                     <l>
+                        <hi>[Bas.]</hi> En faveur du Gascon il faut faire un effort.</l>
+                     <l>
+                        <hi>[Haut.]</hi> Dis moy par quel motif la severe Isabelle,</l>
+                     <l>Au discours de mon maistre à paru si rebelle.</l>
+                     <l>Il en est amoureux jusques à la fureur,</l>
+                     <l>Si ta Dame le fuit je crains pour son honneur:</l>
+                     <l>Ces diables de Gascons ont l'ame furibonde,</l>
+                     <l>C'est un des plus fripons qui coure par le monde;</l>
+                     <l>Mais, dis-moy, s'il venoit à la Tarquiniser,</l>
+                     <l>Seroit-t-ell visage à se martiriser?</l>
+                     <l>Suivroit-t-elle aussi-tost les traces de Lucresse;</l>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <l>Je ne croy pas encore sa vertu si Tigresse:</l>
+                     <l>Nostre siecle a peu veu de ces rares transports,</l>
+                     <l>L'ame à l'extremité justifieroit le corps;</l>
+                     <l>L'intention tient lieu d'excuse ligitime,</l>
+                     <l>On n'est point criminel sans consentir au crime.</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <p>Peste quel jugement, qui t'en a tant apris?</p>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <l>J'ay toûjours conversé parmy les beaux esprits.</l>
+                     <pb n="11" facs="tcp:94836:10"/>
+                     <l>Je servois à Paris une jeune Comtesse,</l>
+                     <l>Qui sçavoit toutes choses, &amp; qui lisoit sans cesse;</l>
+                     <l>Tous les sçavans estoient de ses admirateurs,</l>
+                     <l>On voyoit autour d'elle une foûle d'auteurs,</l>
+                     <l>Qui luy venoient souvent consulter leurs ouvrages,</l>
+                     <l>Et je ne perdois pas de si grands avantages:</l>
+                     <l>Mais pour en revenir à ton brave Gascon,</l>
+                     <l>Il aborde Madame avec un plaisant ton:</l>
+                     <l>Fût-il en quatre mots, des Amans le plus tendre,</l>
+                     <l>Eût-il plus de valeur que le grand Alexandre;</l>
+                     <l>Eût-il plus que l'Amour de graces &amp; d'apas,</l>
+                     <l>S'il ne sçait point chanter il perdra tous ses pas,</l>
+                     <l>Sans musique chez nous personne n'entre en grace,</l>
+                     <l>Et mon Clavesin seul m'y procure une place;</l>
+                     <l>Pour ton tarquiniseur.</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>S'il ne faut que chanter,</l>
+                     <l>Mon maistre assurément.</l>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <l>Dieu nous veiieille assister;</l>
+                     <l>S'il chante comm'il parle il va faire merveille,</l>
+                     <l>Il nous faut du sublime, ô mon pauvre la Treille:</l>
+                     <l>Son accent seul rebutte &amp; chagrine.</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>Aujourd'huy,</l>
+                     <l>Tous ceux de l'opera sont Gascons comme luy.</l>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <p>Tant-pis.</p>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <p>Pourquoy tant-pis, tu fais la déda<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>gneuse:</p>
+                  </sp>
+                  <pb n="12" facs="tcp:94836:11"/>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <l>Moy tu te trompe fort, mais je suis connoisseuse,</l>
+                     <l>Et ma delicatesse est souvent un malheur.</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <p>Mon maistre chantera morbleu pour son honneur.</p>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <l>Hé bien, nous l'entendrons pour peu qu'il sçache faire,</l>
+                     <l>La musique pourra mettre ordre à son affaire:</l>
+                     <l>Mais toy qui d'un tel maistre est le digne valet,</l>
+                     <l>Regalle nous un peu de quelque air de ballet:</l>
+                     <l>Tu chante aparcmment, &amp; quand mon épinette</l>
+                     <l>Sera jointe à ta voix.</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>Ha ma chere Finette,</l>
+                     <l>Si je pouvois un jour concerter avec toy,</l>
+                     <l>Que de charmans plaisirs, que de douceurs pour moy.</l>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <p>La Treille est de bon goust.</p>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <p>Finette est adorable.</p>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <p>Peut-on loüer les gens d'un air plus agréable.</p>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>Tu meriterois mieux &amp; tu dois m'avoüer,</l>
+                     <l>Que qui te connoistra, ne peut trop te loüer.</l>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <p>Tu me gâte l'esprit je me croiray trop belle.</p>
+                  </sp>
+                  <pb n="13" facs="tcp:94836:11"/>
+                  <sp>
+                     <speaker>LA TREILL<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</speaker>
+                     <p>Hâ crois le hardiment.</p>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <l>Ma maistresse m'appelle,</l>
+                     <l>Il faut que je te quitte, adieu, jusques au revoir.</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>Si tu me le permets je reviendray ce soir,</l>
+                     <l>Parle un peu de mon maistre &amp; protege sa flâme.</l>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <p>Je n'y manqueray pas.</p>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <p>Adieu donc ma chere ame.</p>
+                  </sp>
+               </div>
+               <div n="5" type="scene">
+                  <head>Scene cinquiesme.</head>
+                  <sp>
+                     <speaker>LA TREILLE, seul.</speaker>
+                     <l>
+                        <hi>Ma foy le coeur me bat, Amour, pour un moment</hi>
+                     </l>
+                     <l>
+                        <hi>Souffre que je respire, ha cruel doucement;</hi>
+                     </l>
+                     <l>
+                        <hi>Je blâmois autrefois mon maistre d'estre tendre,</hi>
+                     </l>
+                     <l>
+                        <hi>Et de le devenir je n'ay pû me deffendre:</hi>
+                     </l>
+                     <l>
+                        <hi>Voyage infortuné pays contagieux,</hi>
+                     </l>
+                     <l>
+                        <hi>Mais je me desespere &amp; je n'en suis pas mieux;</hi>
+                     </l>
+                     <l>
+                        <hi>Allons ferme la Treille arme toy de constance,</hi>
+                     </l>
+                     <l>
+                        <hi>Finette assurément flâte ton esperance:</hi>
+                     </l>
+                     <l>
+                        <hi>Qui pourroit t'alarmer, eusse tu cent rivaux,</hi>
+                     </l>
+                     <l>
+                        <hi>La friponne a des yeux &amp; voit ce que tu vaux.</hi>
+                     </l>
+                     <l>
+                        <hi>Courons chercher mon maistre &amp; luy faisons entendre,</hi>
+                     </l>
+                     <l>
+                        <hi>Pour estre heureux un jour, le chemin qu'il doit prendre.</hi>
+                     </l>
+                  </sp>
+                  <trailer>Fin du premier Acte.</trailer>
+                  <pb n="14" facs="tcp:94836:12"/>
+               </div>
+            </div>
+            <div type="interlude">
+               <stage>L'Intermede du premier Acte, est une dispute amoureuse de Tritons &amp; de Nereïdes, sur les bords de la Thamise, des Pescheurs qui tirent leurs filets sur le rivage, char<g ref="char:EOLhyphen"/>mez de voir des Divinitez, témoignent leur joye par une dance agreable.</stage>
+               <p>
+                  <hi>Tritons, Nereïdes.</hi>
+               </p>
+               <sp>
+                  <speaker>Un Triton chante.</speaker>
+                  <l>Nayades jeunes &amp; belles,</l>
+                  <l>De nostre humide sejour,</l>
+                  <l>Chassez les fiertez cruelles,</l>
+                  <l>Suivez les Loix de l'Amour:</l>
+                  <l>Tous ces jeux sont agreables,</l>
+                  <l>Les plaisirs suivent ses pas;</l>
+                  <l>Et vous estes trop aymables,</l>
+                  <l>Pour ne les connoistre pas.</l>
+               </sp>
+               <sp>
+                  <speaker>Une Nereïde.</speaker>
+                  <l>Thetis ne veut point qu'on soupire,</l>
+                  <l>Et dessend dans les flots cet usage facheux;</l>
+               </sp>
+               <sp>
+                  <speaker>Un Triton.</speaker>
+                  <l>Elle n'a garde de vous dire,</l>
+                  <l>Quelle sit autrefois un mortel bien heureux.</l>
+               </sp>
+               <sp>
+                  <speaker>Un autre Triton.</speaker>
+                  <l>On voudroit paroistre sage,</l>
+                  <l>Quand l'Amour ennemy de l'aage,</l>
+                  <l>Fuit les objets qui sont comblez de jours:</l>
+                  <l>Mais souvent les noms de prudes,</l>
+                  <pb n="15" facs="tcp:94836:12"/>
+                  <l>Laissent de petits retours,</l>
+                  <l>A de vieilles habitudes.</l>
+               </sp>
+               <sp>
+                  <speaker>Une Nereïde.</speaker>
+                  <l>Quoy vous portez jusques aux Dieux,</l>
+                  <l>Les traits de vostre satyre:</l>
+               </sp>
+               <sp>
+                  <speaker>Un Triton.</speaker>
+                  <l>Pour estre du Celeste Empire?</l>
+                  <l>N'a-t-on pas un coeur &amp; des yeux.</l>
+               </sp>
+               <sp>
+                  <speaker>Trois Tritons.</speaker>
+                  <lg>
+                     <l>Quand l'agreable jeunesse,</l>
+                     <l>Vous preste de ses apas:</l>
+                     <l>Profitez du temps qui presse,</l>
+                     <l>Ʋn bien perdu ne se recouvre pas.</l>
+                  </lg>
+                  <lg>
+                     <l>Des que l'on voit la vieillesse,</l>
+                     <l>Chasser vois jeunes attraits,</l>
+                     <l>L'Amour degousté vous laisse,</l>
+                     <l>Et porte ailleurs le pouvoir de ses traits.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Une Nereïde.</speaker>
+                  <l>Amans qui cherchez a plaire,</l>
+                  <l>Sçavez-vous ce qu'il faut faire</l>
+                  <l>Pour toucher de jeunes coeurs,</l>
+                  <l>Nous voulons de la constance,</l>
+                  <l>Et bien souvent nos faveurs,</l>
+                  <l>Suivent la perseverance.</l>
+                  <pb n="16" facs="tcp:94836:13"/>
+               </sp>
+               <sp>
+                  <speaker>Un Triton.</speaker>
+                  <l>Vous nous faites tort,</l>
+                  <l>Belle Nereyde,</l>
+                  <l>L'Amour qui nous guide,</l>
+                  <l>A vos charmans apas attache nostre sort,</l>
+               </sp>
+               <sp>
+                  <speaker>Une Nereïde.</speaker>
+                  <l>Vous jurez d'estre fidelles,</l>
+                  <l>Et dans le mesme moment;</l>
+                  <l>A quelques Nayades plus belles,</l>
+                  <l>Vous allez quelquesfois faire un pareil serment.</l>
+               </sp>
+               <sp>
+                  <speaker>Trois Tritons.</speaker>
+                  <l>Aymez suivez nos leçons,</l>
+                  <l>A celles de Thetis gardez bien de vous rendre,</l>
+                  <l>Chez l'Ocean, Nymphes, Tritons;</l>
+                  <l>Tout se pique d'estre tendre.</l>
+               </sp>
+               <sp>
+                  <speaker>Un Triton.</speaker>
+                  <l>Serez vous tousjours severes,</l>
+                  <l>Pendant que nous languissons?</l>
+               </sp>
+               <sp>
+                  <speaker>Deux Nereïdes.</speaker>
+                  <l>L'Amour veut qu'on luy defere,</l>
+                  <l>En vain nous luy resisterions.</l>
+               </sp>
+               <sp>
+                  <speaker>Le Choeur.</speaker>
+                  <l>Qu'une si belle victoire,</l>
+                  <l>Augmente aujourd'huy sa gloire.</l>
+               </sp>
+               <trailer>Fin de l'Intermede du premier Acte.</trailer>
+            </div>
+            <pb n="17" facs="tcp:94836:13"/>
+            <div n="2" type="act">
+               <head>ACT. II.</head>
+               <div n="1" type="scene">
+                  <head>SCENE I.</head>
+                  <head>RARE-EN-TOƲT, LA TREILLE.</head>
+                  <sp>
+                     <speaker>RARE-EN-TOUT.</speaker>
+                     <l>TU dis que pour luy plaire il faut sçavoir chanter,</l>
+                     <l>Nous avons grace au ciel dequoi la contenter</l>
+                     <l>Latrëille &amp; si ces yeux ne me sont pas propices,</l>
+                     <l>Ses oreilles peut-être auront moins d'injustices.</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <p>Je le croy comme vous, mais ce n'est pas jeu seur.</p>
+                  </sp>
+                  <sp>
+                     <speaker>RARE-EN-TOƲT.</speaker>
+                     <l>Ma voix assurément respond de mon bonheur,</l>
+                     <l>Et lambert ma trouvé chantant comme les Anges.</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <p>Vous sçavez encore mieux vous donner des loüanges.</p>
+                  </sp>
+                  <sp>
+                     <speaker>RARE-EN-TOUT.</speaker>
+                     <l>Peut être que tu crois que c'est par vanité,</l>
+                     <l>Mais je connois mon prix, &amp; j'ay de l'equité.</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>Phebus en soit loüé Phebus &amp; les neuf Muses,</l>
+                     <l>Gens comme vous sçavez qui ne sont pas des buses,</l>
+                     <l>Et que pour la Musique il est bon d'invoquer:</l>
+                     <l>Car sur le point d'honneur ils se pouroient piquer</l>
+                     <l>S'ils vouloient de leurs dons me faire quelque homage,</l>
+                     <l>Finette m'aimeroit milles fois d'avantage</l>
+                     <l>Elle sçait la Musique &amp; voudroit q'un amant</l>
+                     <l>Pût preluder du moins avec un instrument.</l>
+                  </sp>
+                  <sp>
+                     <speaker>RARE-EN-TOUT.</speaker>
+                     <p>Avec sa passion ce Coquin me fait rire.</p>
+                  </sp>
+                  <pb facs="tcp:94836:14"/>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <p>Ay</p>
+                  </sp>
+                  <sp>
+                     <speaker>RARE-EN-TOUT.</speaker>
+                     <p>Te trouve-tumal.</p>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <p>Non c'est que je soupire.</p>
+                  </sp>
+                  <sp>
+                     <speaker>RARE-EN-TOUT.</speaker>
+                     <l>Souspirer cadebiou tu te mocque de moy,</l>
+                     <l>Les soupirs sont-ils faits pour des gens comme toy.</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>Pourquoy-non s'il vous plait? n'ais-je pas une haleine,</l>
+                     <l>Un coeur des sentimens pour exprimer ma peine,</l>
+                     <l>Il semble a ces Messieurs les gens de qualité,</l>
+                     <l>Qu' un pauvre domestique est sans humanité,</l>
+                     <l>Que seuls ils sont en droit de tanter l'avanture</l>
+                     <l>Et que nous n'avons rien de Madame Nature:</l>
+                     <l>Mais ils se trompent fort, &amp; nous sommes comme eux,</l>
+                     <l>Propres à cultiver un commerce amoureux,</l>
+                     <l>Et tres souvent choisis par la bonne Fortune,</l>
+                     <l>Pour de grandes faveurs!</l>
+                  </sp>
+                  <sp>
+                     <speaker>RARE-EN-TOUT.</speaker>
+                     <l>Tais toi tu m'importune.</l>
+                     <l>Isabelle est long-tems, je brûle de la voir</l>
+                     <l>La nuit vient cepandant.</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>J'en suis au desespoir</l>
+                     <l>Vous allez rester seul je n'aime point son ombre,</l>
+                     <l>Et je crains pour mon dos quelque facheux encombre.</l>
+                  </sp>
+                  <sp>
+                     <speaker>RARE-EN-TOUT.</speaker>
+                     <l>Poltron craindre avec moy! ne me connois tu pas?</l>
+                     <l>Chaque coup de ma main est suivy d'un trépas,</l>
+                     <l>Demeure icy, Faquin, avec toutte assurance.</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>Faites-vous assommer, mais loin de ma presence,</l>
+                     <l>l'y consens de bon coeur vous êtes un Guerrier;</l>
+                     <pb facs="tcp:94836:14"/>
+                     <l>Quand a moy j'aime mieux levin que le Laurier</l>
+                     <l>Cuëillez en dans ces lieux &amp; priez la Thamise,</l>
+                     <l>Que de ces plus touffus elle vous favorise,</l>
+                     <l>Si vous ne les payez que cent coups de baton</l>
+                     <l>Ce n'est ma foy pas cher.</l>
+                  </sp>
+                  <sp>
+                     <speaker>RARE-EN-TOUT.</speaker>
+                     <l>Ha Monsieur le Fripon,</l>
+                     <l>Vous épuisez enfin toutte ma patience,</l>
+                     <l>Et je vais sur le Champ vous frotter d'importance.</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>N'en prenez pas la peine on vient, remettez vous</l>
+                     <l>Et quitez la fureur pour prendre un air plus doux</l>
+                     <l>C'est vostre cher objet la divine Isabelle.</l>
+                  </sp>
+                  <sp>
+                     <speaker>RARE-EN-TOUT.</speaker>
+                     <l>La Reyne des amours ne fut jamais sy belle,</l>
+                     <l>Puis que c'est en chantant qu'il la faut aborder,</l>
+                     <l>Commançons par un air propre à persuader.</l>
+                  </sp>
+               </div>
+               <div n="2" type="scene">
+                  <head>SCENE II.</head>
+                  <head>Isabelle, Finette, Rare-en-tout, la Treille.</head>
+                  <sp>
+                     <speaker>RARE-EN-TOƲT </speaker>
+                     <stage>Chante.</stage>
+                     <l>Jeune merveille</l>
+                     <l>A d'illustres soupirs,</l>
+                     <l>Deignez prêter l'oreille,</l>
+                     <l>Et favorisez mes desirs:</l>
+                     <l>Dieux quelle gloire</l>
+                     <l>Davoir triomphé de mon coeur!</l>
+                     <l>Jamais victoire</l>
+                     <l>Ne fut plus digne du Vanqueur.</l>
+                  </sp>
+                  <pb facs="tcp:94836:15"/>
+                  <sp>
+                     <speaker>LATREILLE.</speaker>
+                     <p>Finette qu'en dis-tu, chante-t'il?</p>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <l>A miracle,</l>
+                     <l>Et pour sa passion je ne vois plus d'obstacle.</l>
+                  </sp>
+                  <sp>
+                     <speaker>LATREILLE.</speaker>
+                     <p>Nous pourons done nour voir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <p>Oüi sans doute.</p>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>Et de pres</l>
+                     <l>D'un grand concert chez nous on fait tous les apprets</l>
+                     <l>Mon maistre y pretend bien inviter Isabelle,</l>
+                     <l>Et toy parcillement.</l>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <p>Apprends une nouvelle.</p>
+                  </sp>
+                  <sp>
+                     <speaker>LA TRAILLE.</speaker>
+                     <p>De qui donc?</p>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <l>De Climene elle sort de chez nous,</l>
+                     <l>Et ma maitresse vient d'essuyer son Courroux</l>
+                     <l>Elle dit que ton maître est un Traitre un parjure,</l>
+                     <l>Qui fait a les sermens une honteuse injure</l>
+                     <l>Et qu'Isabelle Craigne en souffrant son amour</l>
+                     <l>D'un Infidele coeur le volage retour.</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>Laisse la declamer contre la perfidie,</l>
+                     <l>C'est un joly subjet pour une Comedie;</l>
+                     <l>Mais le Gascon s'avance &amp; l'on ne le fuit plus.</l>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <p>La Musique, Latreille, a de grandes Vertus.</p>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>Jusques dans les enfers de Chanter on se pique,</l>
+                     <l>Et le Chien cerberus fait des cris en musique.</l>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <p>Il a sans doute apris pour rejoüir Pluton.</p>
+                  </sp>
+                  <pb facs="tcp:94836:15"/>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>A l'opera d'Alceste il secondoit Caron</l>
+                     <l>Son rolle étoit fort beau, quoi que la médisance,</l>
+                     <l>En ait voulu jazer.</l>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <l>Qu'on est critique en France!</l>
+                     <l>Mais Isabelle chante aprochons nous sans bruit.</l>
+                  </sp>
+                  <sp>
+                     <speaker>ISABELLE </speaker>
+                     <stage>Chante.</stage>
+                     <l>Quand je vois l'aimable-tirsis</l>
+                     <l>Mes yeus se troublent, je rougis;</l>
+                     <l>Quand il est absent, je soupire</l>
+                     <l>J' y pense la nuit &amp; le jour,</l>
+                     <l>Je crains tout ce que je desire,</l>
+                     <l>Voila les mouvemens qui naissent de l'amour.</l>
+                  </sp>
+                  <sp>
+                     <speaker>RARE-EN-TOUT.</speaker>
+                     <l>Que de Charmans acçens trois fois heureuse nuit,</l>
+                     <l>De grace continué à m'être favorable</l>
+                     <l>Ma foy de tous costes vous estes adorable,</l>
+                     <l>Et mon ardant amour ne peut me pardonner</l>
+                     <l>De n'avoir pas au moins cent coeurs a vous donner</l>
+                     <l>Puis que ma voix vous plaist je vous en fais homage,</l>
+                     <l>Comme maître de l'art j'execute un ouvrage.</l>
+                     <l>Je sçais des airs anglois galands &amp; fort nouveaus,</l>
+                     <l>Jevais vous en chanter quelques uns des plus beaus.</l>
+                  </sp>
+                  <stage>RARE-EN-TOUT. Chante un air Anglois. ISABELLE. Luy respond. FINETTE. a Latreille.</stage>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <p>Que dis-tu de cela?</p>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <p>Je n'entens point la langue.</p>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <p>Tais toy ton maître un reprendre sa harangue.</p>
+                  </sp>
+                  <pb facs="tcp:94836:16"/>
+                  <sp>
+                     <speaker>RARE-EN-TOUT. </speaker>
+                     <stage>pandant qu' Isabelle. Chante.</stage>
+                     <l>Quel Charmes! quelle voix! quel port quelle fierté!</l>
+                     <l>Que je sens dé plaisir &amp; de felicité</l>
+                     <l>Dans les rauissemens mon ame s'extasie</l>
+                     <l>Madame je me meurs taisez vous je vous prie</l>
+                     <l>Avec encor deux tons vous me faite expirer</l>
+                     <l>Donnez amon amour le temps de respirer</l>
+                     <l>Jesuis charmé, vaincu, soumis tendre, fidele,</l>
+                     <l>Par les yeux, par lavoix, par lesprit d'Isabelle;</l>
+                     <l>Ma noblesse, mon bien, mon credit ma valeur,</l>
+                     <l>Mon merite, mon bras, mos soupirs, ma grandeur,</l>
+                     <l>Je lui consacre tout, &amp; je veux a sa gloire</l>
+                     <l>Faire graver nos noms au Temple, de memoire.</l>
+                     <l>Ne sçais tu point ou cest Latreille.</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE </speaker>
+                     <stage>En riant</stage>
+                     <l>Non Monsieur</l>
+                     <l>Qui me l'auroit apris?</l>
+                  </sp>
+                  <sp>
+                     <speaker>RARE-EN-TOUT.</speaker>
+                     <l>Vous faites le rieur</l>
+                     <l>Je vous en dois desia je pairay bien ma debte.</l>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <l>Devez vous vous facher dans l'estat ou vous estes,</l>
+                     <l>Madame est pacifique elle ayme la douceur</l>
+                     <l>Et les emportemens ne touchent point son coeur</l>
+                  </sp>
+                  <sp>
+                     <speaker>RARE-EN-TOƲT.</speaker>
+                     <l>Je luy pardonne donc; mais qu'il t'en rende grace</l>
+                     <l>Lanuit qui nous surprend mefait quiter la place</l>
+                     <l>L'on repette ce soir un beau concert chez moy</l>
+                     <l>Ta dame y viendra-telle.</l>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <p>Assurement</p>
+                  </sp>
+                  <sp>
+                     <speaker>RARE-EN-TOUT.</speaker>
+                     <p>Et toy</p>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <p>Je ne la quite pas,</p>
+                  </sp>
+                  <pb n="23" facs="tcp:94836:16"/>
+                  <sp>
+                     <speaker>RARE-EN-TOƲT.</speaker>
+                     <l>Il faut que je lén prie:</l>
+                     <l>Mon amour vous prepare une galanterie,</l>
+                     <l>Elle est devostre goust, ce sont des airs charmans</l>
+                     <l>Chantez &amp; soutenus de quelques Instrumens;</l>
+                     <l>Ma maison de la vostre est a peu de distance,</l>
+                     <l>Poura-ton esperer vostre chere presence?</l>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <l>Madame ne dit rien de peur de séngager,</l>
+                     <l>Mais jevous le promets;</l>
+                  </sp>
+                  <sp>
+                     <speaker>RARE-EN-TOUT.</speaker>
+                     <l>Tu me fais enrager,</l>
+                     <l>Laisse la decider de ceque je demande:</l>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <p>Je parle par son ordre elle me le commande,</p>
+                  </sp>
+                  <sp>
+                     <speaker>RARE-EN-TOUT.</speaker>
+                     <l>Ah! cela me suffit, je ne resiste plus</l>
+                     <l>Son silence toûjours ne m'est point un refus.</l>
+                     <l>La treille, reste jcy pour amener Madame,</l>
+                     <l>Sy tu veux móbliger parle aussy de ma flame;</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <p>Cela vous est acquis,</p>
+                  </sp>
+                  <sp>
+                     <speaker>RARE-EN-TOUT.</speaker>
+                     <l>A dieu pour unmoment</l>
+                     <l>Je vais de mes chanteurs exçiter l'agrement</l>
+                  </sp>
+               </div>
+               <div n="3" type="scene">
+                  <head>
+                     <hi>SCENE III.</hi>
+                  </head>
+                  <head>Finette, La Treille.</head>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <p>Parle un peu du Gascon, ne tat-il point fait rire?</p>
+                  </sp>
+                  <sp>
+                     <speaker>LATREILLE.</speaker>
+                     <p>Je n'ay pas le loisir, il faut que je soûpire.</p>
+                  </sp>
+                  <pb n="24" facs="tcp:94836:17"/>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <l>Si ton amour est triste, il me chagrinera</l>
+                     <l>L'enjoüement me fait vivre, &amp; luy seul me plaira</l>
+                     <l>La treille mets plûtost un peu d'eau dans ta braise.</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>Ton coeur indifferent en parle bien à l'aise;</l>
+                     <l>Mais puis que pour te plaire il faut te divertir</l>
+                     <l>Parlons de Rare Entout.</l>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <l>A ne te point mentir</l>
+                     <l>C'est un original qui n'a point de semblable:</l>
+                     <l>Ma maitresse pourtant n'est plus inexorable,</l>
+                     <l>La musique chez nous le va mettre en credit.</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>Où diable a-t-elle pris ce qu'elle nous adit,</l>
+                     <l>Ne point parler aux gens, quelle sotte manie,</l>
+                     <l>Pour moy ce me seroit une peine Infinie.</l>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <p>J'y suis accoûtumée, &amp; je n'en souffre plus.</p>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>Est-ce une Deité feconde en Jacobus:</l>
+                     <l>Est-elle liberalle, &amp; sa main bien-faisante</l>
+                     <l>Les fait-elle à grands flots tomber sur sa suivante.</l>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <l>De quoy te mesle tu, ce n'est pas l'interest,</l>
+                     <l>Qui m'attache aupres delle;</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>He quoy donc s'il te plaist?</l>
+                     <l>Tu serois la premiere &amp; l'unique Françoise</l>
+                     <l>Qui donneroit son temps aux beaux yeux d'une Angloise?</l>
+                     <l>Ne te pique point tant de generosité</l>
+                     <l>Plus que les autres maux je crains la pauvreté,</l>
+                     <l>Mais ne serois tupoint de ces beautez fardées,</l>
+                     <l>Qui perdant de ces flēurs qu'elles ont ma gardées</l>
+                     <l>Passent en Angleterre &amp; s'armant de pudeur</l>
+                     <pb n="25" facs="tcp:94836:17"/>
+                     <l>Vont au premier party qui peut leur faire honneu</l>
+                     <l>Il en est tant icy qui nont quité la France,</l>
+                     <l>Que par de vrais motifs de pareille importance.</l>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <l>C'est raisonner fort juste, &amp; je vous trouve bon,</l>
+                     <l>Vous m'honorez beaucoup avec un tel soubçon,</l>
+                     <l>Insulter de la sorte une fille fort sage.</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <p>Excuse la franchise.</p>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <p>Il n'est plus temps.</p>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>J'enrage.</l>
+                     <l>Machere par l'amour que tu m'as inspiré,</l>
+                     <l>Ne pousse point about un coeur desesperé,</l>
+                     <l>Tes froideurs sont pour moy d'effroyables suplices,</l>
+                     <l>Tu sçais qu'il est des feux, des fers, des precipices,</l>
+                     <l>Et si j'allois pour toy me donner le trepas:</l>
+                     <l>Verrois-tu par ma mort augmenter tes appas.</l>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <p>Tu fais l'extravagant, quand tu m'as outragée.</p>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <p>Je m'enpoisonneray.</p>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <p>Je veux estre vangée.</p>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>Tu les assez desia tigresse, &amp; ta fierté,</l>
+                     <l>Pour ton fidelle amant n'a point d'humanité;</l>
+                     <l>Ecoute mes soupirs vois le cours de mes l'armes,</l>
+                     <l>J'en veux laver l'affront que j'ay fait a tes charmes,</l>
+                     <l>Je n'en puis plus.</l>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <p>Helas! je croys que tu te meurs.</p>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <p>Ouy, Jevais chez les morts deplorer mes malheurs.</p>
+                  </sp>
+                  <pb facs="tcp:94836:18"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:94836:18"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:94836:19"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="23" facs="tcp:94836:19"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="24" facs="tcp:94836:20"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="25" facs="tcp:94836:20"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="26" facs="tcp:94836:21"/>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <l>Mon ame s'adoucit tu peux prendre courage,</l>
+                     <l>Et pour une autre fois remettre ton voyage.</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <p>Tu me pardonne donc, Finette?</p>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <p>Assurement.</p>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>Ma foy j'allois dêja faire mon testament,</l>
+                     <l>Je te laissois mon bien en sortant de la vie.</l>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <l>Va, garde-le pour toy, je n'en ay point d'envie,</l>
+                     <l>Pour ton crime en un mot si tu veux l'effacer,</l>
+                     <l>Me me dis jamais rien qui me puisse offencer.</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <p>Non, je ne pretens plus parler que de ma flame.</p>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <l>Il faut aller donner les Coiffes de Madame,</l>
+                     <l>Nous allons revenir, ton maître nous attend.</l>
+                     <l>Ne veux tu plus rien?</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE</speaker>
+                     <p>Non, je suis plus que content.</p>
+                  </sp>
+               </div>
+               <div n="4" type="scene">
+                  <head>SCENE IV.</head>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>De pareils animaux ont la bille bien prompte;</l>
+                     <l>Mais aussy j'avois tort, c'éstoit luy faire honte</l>
+                     <l>Soubçonner sa vertu, c'est être bien brutal,</l>
+                     <l>Et de luy dire en face encore plus animal:</l>
+                     <l>J'avois perdu l'esprit de parler de la sorte,</l>
+                     <l>Et je meritois bien une peine plus forte,</l>
+                     <l>Il n'en faut plus parler, elle m'a pardonné,</l>
+                     <l>La voicy qui revient.</l>
+                  </sp>
+               </div>
+               <div n="5" type="scene">
+                  <pb n="27" facs="tcp:94836:21"/>
+                  <head>
+                     <hi>SCENE V.</hi>
+                  </head>
+                  <head>Isabelle, Finette, la Treille.</head>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <l>As-tu bien raisonné?</l>
+                     <l>Allons, marche devant au logis de ton maître</l>
+                     <l>Madame ne veut point qu'on la face connaître.</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>Ne t'inquiette point, je serai fort discret,</l>
+                     <l>Et je vais à mon maître imposer le secret.</l>
+                  </sp>
+                  <trailer>Fin du second Acte.</trailer>
+               </div>
+            </div>
+            <div type="interlude">
+               <stage>Intermede du second Acte. La Scene change icy, &amp; represente la maison de rare en tout qui donne a sa maitresse le divertissement d'un concert fort agreable, &amp; d'une entrée de matassins.</stage>
+               <sp>
+                  <speaker>Un Amant chante.</speaker>
+                  <l>Ombres charmans, nuit trop heureuse,</l>
+                  <l>Venez proteger mon amour,</l>
+                  <l>Donnez-moy par pitié les plaisirs que le jour,</l>
+                  <l>Refuse à ma flame amoureuse.</l>
+                  <l>On dit que vous favorises,</l>
+                  <l>Tous les tendres secrets q'un Amant vous confie.</l>
+                  <l>Helas! si vous me refuses,</l>
+                  <l>Prenez aussi le restc de ma vie.</l>
+                  <pb n="28" facs="tcp:94836:22"/>
+               </sp>
+               <sp>
+                  <speaker>Un autre Amant.</speaker>
+                  <l>Si ta maitresse</l>
+                  <l>Ne fait pas ceque tu veux,</l>
+                  <l>La mienne est une tigresse</l>
+                  <l>Qui méprise mes veux:</l>
+                  <l>Depuis long temps je soupire</l>
+                  <l>Sans adoucir sa rigeur,</l>
+                  <l>Et les douceurs de l'amoureux Empire,</l>
+                  <l>N'ont point encore favorisé mon coeur.</l>
+               </sp>
+               <sp>
+                  <speaker>Une Femme.</speaker>
+                  <l>C'est ainsi que dans le monde</l>
+                  <l>Vous chantez nos cruautes</l>
+                  <l>A peine vos feux sont contes,</l>
+                  <l>Que vous voulez qu'on y réponde.</l>
+                  <l>Et si vous vous faites écouter</l>
+                  <l>A des coeurs sans experience,</l>
+                  <l>Vous les payes d'indifference,</l>
+                  <l>Dez qu'ils ne peuvent resistrer.</l>
+               </sp>
+               <sp>
+                  <speaker>Deux Femmes.</speaker>
+                  <l>Quand la constance</l>
+                  <l>Suit l'esperance,</l>
+                  <l>On est heureux sous les loix de l'amour</l>
+                  <l>Tout plaist, tout Charme,</l>
+                  <l>Jamais allarme</l>
+                  <l>Ne predit un facheux retour.</l>
+               </sp>
+               <sp>
+                  <speaker>Trois Hommes.</speaker>
+                  <l>Quand l'esperance</l>
+                  <l>Suit la constance,</l>
+                  <pb n="29" facs="tcp:94836:22"/>
+                  <l>On n'a jamais de volages desirs:</l>
+                  <l>Sans chagrin on porte sa chaine,</l>
+                  <l>L'amour ne cause point de peine,</l>
+                  <l>Où l'on ne trouve des plaisirs.</l>
+               </sp>
+               <sp>
+                  <speaker>Un Homme seul.</speaker>
+                  <l>Cessez, cessez d'être cruelles,</l>
+                  <l>Quand on soûpire pour vous.</l>
+               </sp>
+               <sp>
+                  <speaker>Une Femme.</speaker>
+                  <l>Amans devenez fideles,</l>
+                  <l>Vostre sort sera plus doux.</l>
+               </sp>
+               <sp>
+                  <speaker>Le Coeur.</speaker>
+                  <l>Aimons l'amour nous y convie,</l>
+                  <l>Sans luy tout languit dans la vie.</l>
+               </sp>
+               <trailer>Fin de l'intermede du second Acte.</trailer>
+            </div>
+            <div n="3" type="act">
+               <pb n="30" facs="tcp:94836:23"/>
+               <head>ACT. III.</head>
+               <p>LA même Decoration qui a paru au Prologue &amp; au premier Acte paroit encore icy.</p>
+               <div n="1" type="scene">
+                  <head>SCENE I.</head>
+                  <sp>
+                     <speaker>CLEIMENE seule.</speaker>
+                     <lg>
+                        <l>Noires fureurs, mortelle jalousie,</l>
+                        <l>Contre l'ingrat qui vient de m'outrager</l>
+                        <l>Aprenez moy comme il faut me vanger,</l>
+                        <l>En m'aprenant qu'il m'a trahie.</l>
+                        <l>S'il me fut doux de me laisser charmer,</l>
+                        <l>Me le sera-t-il moins de punir son offence,</l>
+                        <l>Non non à chercher ma vengeance</l>
+                        <l>Justes ressentimens venez donc m'animer.</l>
+                     </lg>
+                     <lg>
+                        <l>Barbare amour, qui repans ton poison</l>
+                        <l>Dans les plus innocentes ames,</l>
+                        <l>Je vivois en repos quand tes trompeuses flames</l>
+                        <l>Triompherent de ma raison.</l>
+                        <l>Bien loin de songer à me plaindre,</l>
+                        <l>Mon mal me donnoit du plaisir,</l>
+                        <l>Je croiois n'avoir rien à craindre.</l>
+                        <l>Mais tu trompois mon coeur &amp; je dois en rougir.</l>
+                     </lg>
+                     <lg>
+                        <l>Sexe sans foy, lâches Amours,</l>
+                        <l>Vous merites les plus cruels tourmens,</l>
+                        <pb n="31" facs="tcp:94836:23"/>
+                        <l>Qui soient sous l'amoureux empire,</l>
+                        <l>Pour punir un coeur criminel;</l>
+                        <l>Il faut le plus rude martire,</l>
+                        <l>La mort n'a rien d'assez cruel.</l>
+                     </lg>
+                  </sp>
+               </div>
+               <div n="2" type="scene">
+                  <head>SCENE II.</head>
+                  <head>Rare-en-tout, Climeine.</head>
+                  <sp>
+                     <speaker>RARE-EN-TOUT.</speaker>
+                     <l>Avez-vous quelque mal ou quelque inquietude,</l>
+                     <l>Qui vous face chercher ainsy la solitude:</l>
+                     <l>Madame, où venez-vous dans ces lieux reculez,</l>
+                     <l>Pour cacher aux mortels tout ceque vous vales,</l>
+                     <l>Pour moi de tout mon coeur je consens qu'on me voie,</l>
+                     <l>Si mon merite est grand, je le montre avec joye.</l>
+                     <l>Il fait icy du bruit, &amp; je crois qu'a la cour</l>
+                     <l>Les belles pouront bien s'en sentir plus d'un jour.</l>
+                     <stage>Climeine irritée, d'un pareil discours s'eloigne de rare en tout sans parler, qui poursuit de Cette sorte.</stage>
+                     <l>Parquel égarement me fuit cette donzelle?</l>
+                     <l>Quel êtoit son dessein &amp; que pretendoit-elle?</l>
+                     <l>Avoit-elle esperé q'un lâche repentir,</l>
+                     <l>A ses fers de nouveau viendroit m'assujettir,</l>
+                     <l>Que prompt à m'excuser je pourrois tout en larmes,</l>
+                     <l>Sacrifier l'amour d'Isabelle à ses charmes;</l>
+                     <l>Ce n'est pas la mon air, &amp; j'agis autrement</l>
+                     <l>Je voulois à ses yeux vanter mon changement,</l>
+                     <l>Et par bonnes raisons luy prouver que mon ame</l>
+                     <l>Peut quand il luy plaira, disposer de sa flame.</l>
+                     <l>Q'un homme comme moy, libre en ses actions,</l>
+                     <l>Doit pour son plaisir seul suivre ses passions.</l>
+                     <l>Que si le coeur m'en dit je peux être volage,</l>
+                     <pb n="32" facs="tcp:94836:24"/>
+                     <l>Verroit on rare en tout reduit à l'esclavage.</l>
+                     <l>Verroit-on son grand nom soumis à cet affront,</l>
+                     <l>Non d'un pareil opprobre il faut sauver mon front.</l>
+                     <l>Je suis presentement amoureux d'Isabelle;</l>
+                     <l>Mais je pouray changer pour une autre plus belle,</l>
+                     <l>Et selon que l'amour guidera mes regards,</l>
+                     <l>Mes Victimes pourront courir quelques hazards.</l>
+                     <stage>Pandant que Rare-en-tout parle, Isabelle l'écoute &amp; témoigne par ses actions, le mepris qu'elle a pour luy elle se retire ensuitte &amp; il continue.</stage>
+                     <l>Quand je jette les yeux sur toute ma personne,</l>
+                     <l>Il n'en faut point mentir leur merite m'étonne.</l>
+                     <l>Les dames ont raison de me favoriser,</l>
+                     <l>Et leur facilité n'est pas à mépriser.</l>
+                     <l>Mon Valet vient icy qui chancelle, Latreille,</l>
+                     <l>Je croy que vous avez consulté la bouteille.</l>
+                  </sp>
+               </div>
+               <div n="3" type="scene">
+                  <head>SCENE III.</head>
+                  <head>Rare-en-tout, la Treille.</head>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <p>Moy Monsieur! point du tout.</p>
+                  </sp>
+                  <sp>
+                     <speaker>RARE-EN-TOUT.</speaker>
+                     <l>Il n'importe passons</l>
+                     <l>L'amour pour fair boire a de grandes raisons,</l>
+                     <l>Je n'ay point encor veu paroitre ma maitresse,</l>
+                     <l>Dailleurs j'ay randez-vous avec une Contesse</l>
+                     <l>Finette peut sortir ne quitte point ces lieux,</l>
+                     <l>Je t'y vay laisser seul.</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TRAILLE.</speaker>
+                     <l>J'en suis ravi tant mieux,</l>
+                     <l>Vous ne feriez icy q'une sotte figure,</l>
+                     <pb n="33" facs="tcp:94836:24"/>
+                     <l>Garder tant le mulet n'est pas de bon augure.</l>
+                     <l>Ce procedé fait honte à vostre qualité,</l>
+                     <l>Et l'on doit en tout temps garder sa dignité.</l>
+                  </sp>
+                  <sp>
+                     <speaker>RARE-EN-TOUT.</speaker>
+                     <p>Adieu donc:</p>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE. seul.</speaker>
+                     <l>Le ciel vous favorise,</l>
+                     <l>Pour moy je me consaere aux bords de la Thamise,</l>
+                     <l>C'est assez bien choisir je n'ay pas tant de tort,</l>
+                     <l>La fortune m'y suit, dêja Finette sort,</l>
+                     <l>Ne me trompé-je point je vois sur son visage,</l>
+                     <l>De quelque dêplaisir l'infaillible presage.</l>
+                  </sp>
+               </div>
+               <div n="4" type="scene">
+                  <head>SCENE IV.</head>
+                  <head>Finette, la Treille.</head>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>Doux objet de mes veux, tes yeux sont languissans.</l>
+                     <l>N'est-ce point un effet des peines que je sens?</l>
+                     <l>Quel malte peut troubler? ta fantasque chanteuse,</l>
+                     <l>Ne t'a telle point fait de harangue facheuse;</l>
+                     <l>Ne me deguise rien si tu veux m'obliger,</l>
+                     <l>Apprens moy des chagrins que je veux soulager,</l>
+                     <l>Pour un amant ayme l'on na point de mystere,</l>
+                     <l>Songe à ma passion.</l>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <p>Et toy songe a te taire.</p>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <p>Ovais quels yeux, quel discours, quel ton, quelle fierté,</p>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <l>Tu n'abuseras plus de ma credulité,</l>
+                     <l>Qui me trompe une fois n'y revient de sa vie.</l>
+                  </sp>
+                  <pb n="34" facs="tcp:94836:25"/>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <p>Finette, raille-tu?</p>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <p>Ce n'est point raillerie.</p>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <p>Parle plus clairement ou je suis hors demoy.</p>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <l>Tu fais encore icy l'homme de bonne foy,</l>
+                     <l>Il le faut advoüer l'impudence est hardie,</l>
+                     <l>Ton maître ne t'a point appris sa perfidie,</l>
+                     <l>C'est une Amant a pendre, a noyer.</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>Ha! tout beau,</l>
+                     <l>Finette, q'ua til fait?</l>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <l>Son artifice est beau</l>
+                     <l>Protester de l'amour, se dire tout de flame,</l>
+                     <l>Peut-être se plaçer dans le coeur de Madame,</l>
+                     <l>Ft declarer aprés qu'il l'abandonnera,</l>
+                     <l>Des qu'a son inconstance un autre objet plaira.</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <p>Finette sur ma foy ce n'est que médisance.</p>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <p>Madame l'écoutoit c'étoit en sa presence,</p>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <p>Ce témoignage est fort, je n'y puis repartir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <l>Tu devois bien au moins m'en venir âvertir;</l>
+                     <l>Mais nous laisser duper, va, n'as-tu point de honte?</l>
+                     <l>Quel Amour! quel Amant!</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>Mais Finette, a ton conte</l>
+                     <l>Je suis bien criminel pour n'avoir point parlé,</l>
+                     <l>Il auroit donc fallu qu'on m'eut tout revelê,</l>
+                     <l>Puis que je l'ignorois.</l>
+                  </sp>
+                  <pb n="35" facs="tcp:94836:25"/>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <p>a d'autres.</p>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>Quoy cruelle,</l>
+                     <l>Tu veux de ta maitresse embrasser la querelle?</l>
+                     <l>Si mon maître l'abuse est-ce ma faute à moy?</l>
+                  </sp>
+                  <sp>
+                     <speaker>FINETTE.</speaker>
+                     <l>Ouy, d'un plus digne amant elle reçoit la foy</l>
+                     <l>L'hymen l'unit ce soir, &amp; demain je m'engage,</l>
+                     <l>Sous l'agreable joug d'un autre mariage.</l>
+                     <l>Tu peux porter ailleurs tes soupirs &amp; tes voeux,</l>
+                     <l>Te plaindre, te fâcher, t'etrangler si tu veux.</l>
+                     <l>Je ne m'informe point de ce que tu dois faire,</l>
+                     <l>Puis que ton brave maître a manqué son affaire.</l>
+                     <l>La tienne s'il te plait aura méme destin,</l>
+                     <l>Ma noce aura grand air, je t'invite au festin,</l>
+                     <l>C'est la seule faveur que ma pitie t'accorde</l>
+                     <l>A dieu console toy.</l>
+                  </sp>
+               </div>
+               <div n="5" type="scene">
+                  <head>SCENE V.</head>
+                  <sp>
+                     <speaker>La Treille, seul.</speaker>
+                     <l>Detestable discorde!</l>
+                     <l>Peste de la douceur! haine de la Raison!</l>
+                     <l>Ainsi dans tous les coeurs tu répens ton poison,</l>
+                     <l>Pour charmer tes serpents, il faut que l'on deplaise,</l>
+                     <l>Par tes infamer soins je suis bien à mon aise,</l>
+                     <l>Et toy cruel Amour, que mon coeur innocent</l>
+                     <l>Peut bien nommer l'autheur de tous les maux qu'il sent,</l>
+                     <l>Sy j'attrappe jamais ton carquois &amp; tes flêches,</l>
+                     <l>Ma vengeance y fera de furieuses brêches:</l>
+                     <l>Tu souffre que Finette aït pû m'abandonner,</l>
+                     <l>Ha! que de coups de poing je te voudrois donner,</l>
+                     <pb n="36" facs="tcp:94836:26"/>
+                     <l>Si je te tiens un jour sur la terre ou sur l'onde,</l>
+                     <l>Je feray bonne chere a ta perruque blonde,</l>
+                     <l>Petit chien de Fripon ennemi du repos:</l>
+                     <l>Mais voicy l'infidele, il vient fort à propos.</l>
+                  </sp>
+               </div>
+               <div n="6" type="scene">
+                  <head>SCENE VI.</head>
+                  <head>Rare-en-tout, La Treille.</head>
+                  <sp>
+                     <speaker>RARE-EN-TOUT.</speaker>
+                     <l>Me voila de retour, qu'as-tu veu? d'Isabelle</l>
+                     <l>Ne puis-je point de toy scavoir quelque nouvelle?</l>
+                     <l>As-tu trouvé Finette, &amp; n'as-tu rien appris?</l>
+                     <l>Mais tu ne me répons que par des yeux surpris</l>
+                     <l>Dou viennent ces soupirs? pourquoy cette tristesse?</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <p>Peut on être autrement quand on pert sa maitresse?</p>
+                  </sp>
+                  <sp>
+                     <speaker>RARE-EN-TOUT.</speaker>
+                     <p>Qu'est-ce que tu me dis, je n'ay pas bien ouy?</p>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>Je suis desesperé, je suis evannoüy,</l>
+                     <l>Ay rendes moy mon coeur.</l>
+                  </sp>
+                  <sp>
+                     <speaker>RARE-EN-TOƲT.</speaker>
+                     <p>Que diable veux tu dire?</p>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <p>Que j'ay perdu mon coeur cela vous doit suffire.</p>
+                  </sp>
+                  <sp>
+                     <speaker>RARE-EN-TOUT.</speaker>
+                     <p>Je ne te comprens point, parle plus clairement.</p>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>Vous me l'avez ôté par vostre emportement:</l>
+                     <l>Mais pareil ascendant gouverne vostre étoille</l>
+                     <l>Si Finette me fuit, vous perdes Isabelle,</l>
+                     <l>Voila de vos erreurs l'insupportable fruit,</l>
+                     <l>Voila l'effet cruel du malheur qui me suit,</l>
+                     <pb n="37" facs="tcp:94836:26"/>
+                     <l>
+                        <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e vanter huatement destre traitre volage,</l>
+                     <l>Aux yeux de sa maitresse en tirer âvantage,</l>
+                     <l>Dire qu'on est perfide &amp; s'en glorifier,</l>
+                     <l>Allez tous les amans devroient vous chastier:</l>
+                     <l>D'une infidelité, d'un trait abominable</l>
+                     <l>Vous prétendies vous faire un merite agreable:</l>
+                     <l>Mais l'on vous écoutoit &amp; Climeine aujourdhuy,</l>
+                     <l>Contre votre inconstance a trouvé de l'appuy;</l>
+                     <l>N'esperez plus de grace Isabelle en furié,</l>
+                     <l>Pour se venger de vous dês ce soir se marie.</l>
+                     <l>Un amant plus discret luy va donner la main,</l>
+                     <l>Et Finette morbleu se mariera demain.</l>
+                     <l>Vous l'avez bien voulu ha! que vos gasconnades,</l>
+                     <l>Auroient bien merité cinquante bastonnades.</l>
+                  </sp>
+                  <sp>
+                     <speaker>RARE-EN-TOUT.</speaker>
+                     <l>Bastonnades dis-tu pour un discours pareil,</l>
+                     <l>Mon bras de mon couroux pouroit prendre conseil,</l>
+                     <l>Qu'on m'abandonne ou non, pense tu qu'il m'importe,</l>
+                     <l>Si je suis amoureux, c'est de la bonne sorte,</l>
+                     <l>Sois sage a mon exemple &amp; demeure d'accort;</l>
+                     <l>Q'un amant qui s'afflige est digne de son sort,</l>
+                     <l>Je renonce a l'amour puis-qu'il fait tant de peines,</l>
+                     <l>J'ayme bion mieux de mars aller faucher les plaines.</l>
+                     <l>Vingt campagnes ont moins de fatigues pour moy,</l>
+                     <l>Q'un jour d'attachement sous l'amoureuse loy.</l>
+                     <l>Dês que jevoudray plaire, il n'est pas difficille,</l>
+                     <l>On me court dans les champs, on me suit dans la ville;</l>
+                     <l>Je suis tousjours presse d'une foûle de coeurs,</l>
+                     <l>Et mes moindres regards sont d'assurez vainqueurs.</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE</speaker>
+                     <l>Le beau raisonnement, de pareilles chimeres</l>
+                     <l>Dans l'estat ou je suis ne font pas mon affaire,</l>
+                     <l>Mon pauvre coeur, helas! je ne te trouve plus,</l>
+                     <l>Finette te retient, pourquoy?</l>
+                  </sp>
+                  <pb n="38" facs="tcp:94836:27"/>
+                  <sp>
+                     <speaker>RARE-EN-TOUT.</speaker>
+                     <l>C'est un abus,</l>
+                     <l>Sers toy pour te guerir de ma philosophie,</l>
+                     <l>Crois moy.</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>Si de sormais ma prudence s'y fie</l>
+                     <l>Je veux bien qu'on métrille, il m'a coutè trop cher,</l>
+                     <l>La mort.</l>
+                  </sp>
+                  <sp>
+                     <speaker>RARE-EN-TOUT.</speaker>
+                     <l>a sa douleur il faudroit l'arracher,</l>
+                     <l>Latreille, il faut sortir de ce trouble uneste,</l>
+                     <l>Fais un petit effort, le temps fera le reste,</l>
+                     <l>Et pour te consoler ma foy je te promets,</l>
+                     <l>Quand tu me fâcheras de ne gronder jamais,</l>
+                     <l>Et de plus dês demain te donnant vingt pistolles.</l>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>Vous avez beaucoup moins d'effets que de parolles,</l>
+                     <l>L'or a de la vertu, ce metal precieux,</l>
+                     <l>Peutestre adouciroit mon tourment rigoureux.</l>
+                  </sp>
+                  <sp>
+                     <speaker>RARE-EN-TOUT.</speaker>
+                     <p>Vâ je te les promets foy de heros,</p>
+                  </sp>
+                  <sp>
+                     <speaker>LA TREILLE.</speaker>
+                     <l>Courage,</l>
+                     <l>Vous voyes bien desia que l'espoir me soulage.</l>
+                  </sp>
+                  <sp>
+                     <speaker>RARE-EN-TOUT.</speaker>
+                     <l>J'en ay bien de la joye ne songeons qu'a partir,</l>
+                     <l>Et le reste du jour a nous bien divertir.</l>
+                     <l>Voila comme en amour un grand coeur se gouverne,</l>
+                     <l>Un amant du commun merite qu'on le berne,</l>
+                     <l>Soupirer &amp; gemir quel usage fâcheux,</l>
+                     <l>Pour moy je ne sçis point tiranniser mes feux.</l>
+                     <l>Il est vray que par tout ou je les distribue,</l>
+                     <l>l'offrande en est payée aussy tost que receüe;</l>
+                     <l>Les dieux me sont amis j'en suis assez chery,</l>
+                     <l>Mars depuis plusieurs ans m'a fait son favory.</l>
+                     <pb n="39" facs="tcp:94836:27"/>
+                     <l>Quand l'amour veut charmer il choisit mon visage</l>
+                     <l>Des Muses galamment j'e parle le langage</l>
+                     <l>Je m'exerce souvent dans les Jeux d'Apollon,</l>
+                     <l>Et j'e mesle ma voix avec son violon.</l>
+                     <l>Puis-que pour son malheur Isabelle me quite,</l>
+                     <l>Allons en d'autres lieux repandre mon merite</l>
+                  </sp>
+                  <trailer>Fin àu troisieme &amp; dernier Acte.</trailer>
+               </div>
+            </div>
+            <div type="epilogue">
+               <stage>Le Theatre change a la fin du dernier Acte, &amp; represente un Bocage, l'amour fait un Discours aux dames qui sert d'Epilogue, &amp; ensuitte, apelle des Bergers &amp; des Satires, pour venir terminer le divertissemant par une feste Pastoralle.</stage>
+               <sp>
+                  <speaker>L' amour aux dames</speaker>
+                  <lg>
+                     <l>Charmé devoir tant de beautes,</l>
+                     <l>Je renonce aux soins de ma mere,</l>
+                     <l>Et quitte l'Isle de Cythere</l>
+                     <l>Pour gouster en ces lieux d'autres felicitez.</l>
+                     <l>Dans le doux transport qui m'anime,</l>
+                     <l>Pour temoigner q'un Chois si beau</l>
+                     <l>N'a q'une excuse Ligitime,</l>
+                     <l>Je viens avec plaisir derompre mon bandeau.</l>
+                     <l>Que vos a pas ont grossi mon Empire!</l>
+                     <l>Que vous m'avez donné de fidelles Subjects?</l>
+                     <l>Jevous dois mon pouvoir agreables objects,</l>
+                     <l>Trop digns que pour vous l'amour mesme soupire;</l>
+                     <l>Aussi, j'e vous promes que les plus tendres coeurs</l>
+                     <l>Viendront avec plaisir vous offrir leurs homages,</l>
+                     <l>Et que mes plus grandes douceurs</l>
+                     <l>Seront vos moindres avantages.</l>
+                     <l>Ne pretendez pas vous armer</l>
+                     <pb n="40" facs="tcp:94836:28"/>
+                     <l>D'une severite farouche,</l>
+                     <l>La vertu ne fait point un scrupulle d'aymer,</l>
+                     <l>Et quand il me plaist je la touche</l>
+                     <l>Le Commerce des Coeurs na rien de Criminel</l>
+                     <l>Quand l'usage en est bien sincere,</l>
+                     <l>Et qui s'engage amoy par un voeu solennel,</l>
+                     <l>Ne fait q'un innocent Mystere</l>
+                     <l>Ne rougissez donc point d'obeir a mes loix</l>
+                     <l>Jeunes beautes, amans fidelles,</l>
+                     <l>On s'y soûmet parmy les Immortelles</l>
+                     <l>Et Rien n'en dispense les Roys.</l>
+                  </lg>
+                  <lg>
+                     <l>Venez Bergers, que rien ne vous areste:</l>
+                     <l>Laisses pour un moment le soin de vos troupeaux,</l>
+                     <l>Inventes des plaisirs nouveaux,</l>
+                     <l>Et celebres icy ma feste.</l>
+                     <l>Satires sortez de ces bois,</l>
+                     <l>Quittes vos sombres retraittes,</l>
+                     <l>Et venes mesler vos voix</l>
+                     <l>A la douceur des muzettes.</l>
+                  </lg>
+               </sp>
+               <stage>Des Bergers des Bergeres &amp; des Satires paroissent des deux costez du Theatre &amp; finissent la Comedie par des Chants &amp; des Dances.</stage>
+               <sp>
+                  <speaker>DEUX-BERGERS.</speaker>
+                  <l>Couron ou l'amour nous appelle,</l>
+                  <l>Suivons la douceur de ses lois:</l>
+                  <l>Allons Bergers d'une feste nouvelle</l>
+                  <l>Divertir le plus grand des Roys.</l>
+               </sp>
+               <sp>
+                  <speaker>LE COEUR.</speaker>
+                  <l>Allons Bergers d'une feste nouvelle</l>
+                  <l>Divertir le plus grand des Roys.</l>
+               </sp>
+               <sp>
+                  <speaker>UN BERGER.</speaker>
+                  <l>Venez aymables Bergeres,</l>
+                  <l>Mesler vos tendres chants a nos Dances legeres.</l>
+               </sp>
+               <pb n="41" facs="tcp:94836:28"/>
+               <sp>
+                  <speaker>UNE BERGERE.</speaker>
+                  <l>Si nos concerts Innocens</l>
+                  <l>Luy derobent quelques momens,</l>
+                  <l>Gloire n'y porte point d'enuie.</l>
+                  <l>Souveraine de ses desirs</l>
+                  <l>Laisse un peu de temps aux plaisirs,</l>
+                  <l>Et Joüis en repos du reste de sa vie.</l>
+               </sp>
+               <sp>
+                  <speaker>UN BERGER.</speaker>
+                  <l>Que l'amour est charmant,</l>
+                  <l>Qu'il est doox de le suivre;</l>
+                  <l>Un Coeur Indifferent</l>
+                  <l>N'est pas digne de vivre:</l>
+                  <l>Meslons nos tendres soupirs</l>
+                  <l>Au bruit de nos muzettes,</l>
+                  <l>Et faisons parler nos desirs</l>
+                  <l>Par damoureuses Chansonnettes.</l>
+               </sp>
+               <sp>
+                  <speaker>UN SATIRE.</speaker>
+                  <l>Pour quoy suivre l'amour,</l>
+                  <l>Nous qui n'aymons qu'a vire;</l>
+                  <l>Sous son rigoureux empire</l>
+                  <l>Ou souffre la nuit &amp; le jour:</l>
+                  <l>A Bacchus J'e veu faire la cour,</l>
+                  <l>Luy seul est le fait d'un Satire.</l>
+               </sp>
+               <sp>
+                  <speaker>ƲNE BERGERE.</speaker>
+                  <l>Les plaisirs du Dieu des Amans</l>
+                  <l>Ne sont point faits pour les ames farouches,</l>
+                  <l>Il laisse les profanes bouches</l>
+                  <l>Mépriser ses plus doux momens:</l>
+                  <l>Mais si l'on sçait mêdire,</l>
+                  <l>Ses traits sçavent punir,</l>
+                  <l>Et quelque fois nous voyons le Satire,</l>
+                  <l>Pour ses faveurs soupirer &amp; gemir.</l>
+               </sp>
+               <sp>
+                  <speaker>UN SATIRE.</speaker>
+                  <l>Q'une coquette est fiere</l>
+                  <l>Pour peu quelle ait d'appas,</l>
+                  <pb n="42" facs="tcp:94836:29"/>
+                  <l>Elle se desespere</l>
+                  <l>Quand on ne s'y rend pas.</l>
+               </sp>
+               <sp>
+                  <speaker>UN BERGER.</speaker>
+                  <l>Porte dans les deserts ton Insensible coeur</l>
+                  <l>Ennemy de l'amour, cherche de tes semblables:</l>
+                  <l>Charmés de ses lois adorables</l>
+                  <l>Nans cherisons jusques a sarigueur</l>
+               </sp>
+               <sp>
+                  <speaker>UN BERGER.</speaker>
+                  <l>Qu'il est doux de plaire,</l>
+                  <l>Qu'il est agreable d'aymer:</l>
+                  <l>Jeunes coeurs laisles vous enflamer,</l>
+                  <l>L'amour ayme qui le reuere.</l>
+               </sp>
+               <sp>
+                  <speaker>UN SATIRE.</speaker>
+                  <l>Ha! que bachus a de charmans appas,</l>
+                  <l>Qu'il est agreable de boire:</l>
+                  <l>Heureux qui peut suiure ses pas,</l>
+                  <l>A le seruir je mets toute ma gloire.</l>
+               </sp>
+               <sp>
+                  <speaker>UN BERGER.</speaker>
+                  <p>Les plaisirs de l'amour causent milles douceurs,</p>
+               </sp>
+               <sp>
+                  <speaker>UN SATIRE.</speaker>
+                  <p>Et les vapeurs du vin de plaisantes fureurs.</p>
+               </sp>
+               <sp>
+                  <speaker>BERGER. AIMONS, SATIRE. BEUVONS, ENSEMBLE.</speaker>
+                  <l>Passons ainsy la vie</l>
+                  <l>Sans chagrin sans Envie:</l>
+                  <l>Berger</l>
+                  <l>De l'amour</l>
+                  <l>Satire</l>
+                  <l>De bachus</l>
+                  <l>Ensemble</l>
+                  <l>Suivons les leçons.</l>
+               </sp>
+               <sp>
+                  <speaker>UN BERGER.</speaker>
+                  <l>Pendant que nostre age</l>
+                  <l>Nous permet d'aymer,</l>
+                  <pb n="43" facs="tcp:94836:29"/>
+                  <l>D'un si duux usage</l>
+                  <l>Laissons nous charmer:</l>
+                  <l>N'attendons point que la vie illesse</l>
+                  <l>Nous apporte de ses froideurs</l>
+                  <l>Donnons nos soins a la tendresse</l>
+                  <l>C'este le destin des plus grands Coeurs.</l>
+               </sp>
+               <sp>
+                  <speaker>UN BERGER.</speaker>
+                  <l>Obeisses a l'amoureux empire,</l>
+                  <l>Venes honorer ses autels:</l>
+                  <l>Tout s'y soumet dieux &amp; mortels,</l>
+                  <l>Prince, Berger, Faune, Satire.</l>
+               </sp>
+               <sp>
+                  <speaker>LE COEUR.</speaker>
+                  <l>Obeisses a l'amoureux empire,</l>
+                  <l>Venes honorer ses autels:</l>
+                  <l>Tout s'y soumet dieux &amp; mortels,</l>
+                  <l>Prince, Berger, Faune, Satire.</l>
+               </sp>
+            </div>
+            <trailer>FIN.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
